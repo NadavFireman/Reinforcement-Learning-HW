@@ -28,4 +28,4 @@ The Random Walk is the classic testbed for prediction: a 7-state chain with term
 - `random_walk_env.py`: The Random Walk environment provided with the assignment (configurable chain, rewards and policies), closed-form true values and feature helpers.
 - `plotting_utils.py`: Value-comparison and learning-progress plotting helpers.
 - `RL_HW_RandomWalk_Instructions.md`: Assignment instructions (Markdown version).
-- `Assignment_Instructions_1.pdf`: Original course assignment PDF.
+- `Assignment_Instructions.pdf`: Original course assignment PDF.
